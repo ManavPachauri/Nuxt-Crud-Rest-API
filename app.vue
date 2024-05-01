@@ -2,7 +2,7 @@
   <NuxtLayout>
 
     <Head>
-      <title>NUXT CRUD APP</title>
+      <title>NUXT CRUD APP With Rest API</title>
     </Head>
     <NuxtPage />
   </NuxtLayout>
